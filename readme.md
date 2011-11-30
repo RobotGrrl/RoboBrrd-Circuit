@@ -4,7 +4,9 @@
 
 Here you will be able to find the circuit for RoboBrrd created in [EAGLE](http://www.cadsoftusa.com/).
 
-We have also uploaded a png of the circuit so you can read it if you do not have EAGLE.
+We have also uploaded a png of the circuit so you can read it if you do not have Eagle.
+
+Some of the parts inside of the circuit are from the [Adafruit Eagle library](https://github.com/adafruit/Adafruit-Eagle-Library) and [Sparkfun Eagle library](https://github.com/sparkfun/SparkFun-Eagle-Library).
 
 You can learn more about RoboBrrd at [RobotGrrl.com](http://robotgrrl.com) and also read the [Instructable](http://www.instructables.com/id/RoboBrrd/)!
 
